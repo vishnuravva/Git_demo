@@ -1,6 +1,6 @@
 public class Sum{
 public static void main(String[] args){
-System.out.println("hello git");
-System.out.prinln("hello");
+System.out.println("hello git from learning pull commands");
+System.out.prinln("hello git pull");
 }
 }
